@@ -1,5 +1,8 @@
 # Codes for "Intermediate Interaction Strategies for Collective Behavior"
 
+## Citation
+Y.Kikuchi and M.Iwamoto, Intermediate Interaction Strategies for Collective Behavior, arXiv, 2025
+
 ## LICENCE
 MIT License
 
