@@ -9,7 +9,7 @@
 ## Quick start
 ### 1. Processing
 1. Install **Processing 4** → open `model3DKI.pde`.
-2. Press ▶ to run (invariant parameters inside the file).
+2. Press → to run (invariant parameters inside the file).
 3. Get data of order parameter (named 'L'cloop('Q','eta','RS').txt).
 
 ### 2. Python
