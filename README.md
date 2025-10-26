@@ -32,9 +32,10 @@ SOFTWARE.
 | File | Language | Purpose |
 |------|----------|---------|
 | `model3DKI.pde` | Processing (4.3.4) | 3D-KI model simulation & visualization |
-| `python code` | Python (3.9.6) | 3D-KI model simulation |
+| `Python code` | Python (3.9.6) | 3D-KI model simulation |
 | `dataget.pde` | Processing (4.3.4) | Get data for clustering |
 | `HDBSCAN.py`  | Python (3.9.6)    | Clustering using HDBSCAN |
+| `Dataset`  | .txt  | .txt data for each Figure |
 
 ## Tested environment
 The programs here were tested under the systems below;
