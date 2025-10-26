@@ -32,6 +32,7 @@ SOFTWARE.
 | File | Language | Purpose |
 |------|----------|---------|
 | `model3DKI.pde` | Processing (4.3.4) | 3D-KI model simulation & visualization |
+| `python code` | Python (3.9.6) | 3D-KI model simulation |
 | `dataget.pde` | Processing (4.3.4) | Get data for clustering |
 | `HDBSCAN.py`  | Python (3.9.6)    | Clustering using HDBSCAN |
 
@@ -44,7 +45,22 @@ The programs here were tested under the systems below;
 1. Install **Processing 4** → open `model3DKI.pde` or `dataget.pde`.
 2. Press → to run (invariant parameters inside the file).
 
-### 2. Python (HDBSCAN)
+### 2. Python (3D-KI model)
+The following packages are required to run this code.
+```bash
+source .venv/bin/activate
+```
+This script is intended to be run from the terminal.
+```bash
+python 3dkiFix.py
+```
+or
+```bash
+python 3dkiParallel.py
+```
+
+
+### 3. Python (HDBSCAN)
 The following packages are required to run this code.
 ```bash
 pip install numpy matplotlib hdbscan
